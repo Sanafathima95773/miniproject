@@ -1,3 +1,4 @@
+```
 🌱 Plant Disease Prediction Using Edge AI
 📌 Overview
 This mini project detects plant diseases from leaf images using a lightweight deep learning model running on Edge AI.
@@ -40,3 +41,4 @@ Real-time camera-based detection
 
 📸 Demo Output
 <img width="1448" height="723" alt="image" src="https://github.com/user-attachments/assets/5fcbff23-058d-485d-9cc0-e1d6daae7f6d" />
+```
