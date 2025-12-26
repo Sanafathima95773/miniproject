@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## 🎓 Academic Details
 
-- Name: Anbuselvan S
+- Name: Sana Fathima H
 
 - Department: Artificial Intelligence and Machine Learning
 
@@ -52,3 +52,4 @@ streamlit run app.py
 ## 📸 Demo Output
 
 ![Alt text](output.png)
+
